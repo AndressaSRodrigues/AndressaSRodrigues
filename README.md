@@ -12,9 +12,7 @@ I'm **Andressa**, a **Front-End Developer** 👩‍💻 and former English teach
   🗣 Language Lover: Mastered English as a teen for song lyrics and self-taught Spanish.<br>
   🐾 Dog Enthusiast: Adopted a puppy in Ecuador, now an "immigrant dog" in Chile.<br>
 
-- 💻 You can contact me at:<br>
-[![Linkedin: andressa-webdev](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andressa-webdev/) <a href="mailto:andressawebdev@gmail.com">
-  <img src="https://img.icons8.com/?size=256&id=ho8QlOYvMuG3&format=png" alt="Gmail: andressawebdev@gmail.com" width="53" height="53">
-</a>
+- 💻 You can contact me at:<br><br>
+[![Linkedin: andressa-webdev](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andressa-webdev/)
 
 Bye for now ✌
