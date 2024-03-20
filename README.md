@@ -3,7 +3,7 @@
 I'm **Andressa**, a **Front-End Developer** 👩‍💻 and former English teacher 👩‍🏫 with a unique blend of skills and experiences. My journey into the world of technology began when I embarked on a post-graduate course in Instructional Design 🎓. My original motivation was to learn how to create engaging online courses, but little did I know that this path would lead me to the exciting realm of web development.
 
 - 🛠 I've learned and worked with:<br><br>
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,react,angular,mongodb,postgres,firebase,jest,html,css,sass,tailwind,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,react,angular,mongodb,mongoose,sql,postgres,firebase,jest,html,css,sass,tailwind,figma,jira)](https://skillicons.dev)
 
 - 📚 I’m currently learning about different frameworks and libraries.
   
